@@ -1,0 +1,23 @@
+{
+  "name": "ctr-prediction-system",
+  "version": "1.0.0",
+  "description": "Full-stack CTR prediction app with Express, MongoDB, and vanilla frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ctr",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  }
+}
